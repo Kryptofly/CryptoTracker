@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @Kryptofly
-- 👀 I’m interested in exploring the Crypto space with it's future development
-- 🌱 I’m currently learning more about the blockchain and where it is heading to
-- 💞️ I’m looking to collaborate on exploring more AI projects that are developing and have a great impact at our daily life
-- 📫 How to reach me : see my profile
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# CryptoTracker
 
-<!---
-Kryptofly/Kryptofly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CryptoTracker is a simple Python application to track the current prices of specified cryptocurrencies using an API.
+
+## Features
+
+- Fetches real-time prices of specified cryptocurrencies.
+- Displays the prices in a user-friendly format.
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/CryptoTracker.git
+    cd CryptoTracker
+    ```
+
+2. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the application:
+    ```bash
+    python crypto_tracker.py
+    ```
+
+## Requirements
+
+- Python 3.x
+- `requests` library
+
+## License
+
+This project is licensed under the MIT License.
